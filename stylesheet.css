@@ -1,0 +1,25 @@
+		.column {
+			width:33.33%;
+			float:left;
+			padding:5px;
+			box-sizing:border-box;
+		}
+		h4 { 
+			color:#1a62ff;
+		}
+		h2 {
+			color:#1a62ff}
+		body {
+			background-color:#e6eeff;
+			font-family:sans-serif;
+		}
+		header {
+			color:#e6eeff;
+			background-color: #00184d;
+		}
+		div {
+			background-color: #00184d;
+		}
+		
+		
+		
